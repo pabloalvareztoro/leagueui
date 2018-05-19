@@ -1,2 +1,2 @@
 # leagueui
-League Maker UI
+Leaguemaker: UI
